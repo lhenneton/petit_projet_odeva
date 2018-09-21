@@ -3,7 +3,7 @@ package car.tp4.entity;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
-import javax.persistence.Id
+import javax.persistence.Id;
 
 /**
  * Entity of a book (id, author, title and year of publication
